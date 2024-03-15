@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asrithap07
 - 👀 I’m interested in coding, specifically software development
-- 🌱 I’m currently learning Swift to create an app to prevent gun violence in America
+- 🌱 I’m currently learning Swift
 - 📫 Reach me at asrithapinnamaneni.tx@gmail.com
 
 <!---
